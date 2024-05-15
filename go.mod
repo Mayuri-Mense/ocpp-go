@@ -1,8 +1,9 @@
-module github.com/lorenzodonini/ocpp-go
+module github.com/Mayuri-Mense/ocpp-go
 
 go 1.16
 
 require (
+	github.com/lorenzodonini/ocpp-go v0.18.0
 	github.com/Shopify/toxiproxy v2.1.4+incompatible
 	github.com/go-playground/locales v0.12.1 // indirect
 	github.com/go-playground/universal-translator v0.16.0 // indirect
